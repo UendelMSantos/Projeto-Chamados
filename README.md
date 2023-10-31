@@ -1,7 +1,7 @@
-Nome do Projeto
+*NOME DO PROJETO*
 PROJETO CHAMADOS
 
-Tecnologias:
+*TECNOLOGIAS:*
 JavaScript;
 React;
 FireBase;
@@ -9,16 +9,16 @@ ContextAPI;
 Medias;
 Css3;
 
-Descrição
+*Descrição:*
 O projeto consiste em um sistema onde é possível realizar o Cadastro de Clientes e gerar Chamados, auxiliando a empresa sobre as Demandas do dia a dia.
 
-Uso
+*USO*
 Utilize o Projeto para ajudar nas demandas da sua empresa, ele consiste em abertura e monitoramento de chamados e cadastro de Clientes.
 Você pode criar uma nova conta, ou usar uma de teste criada por mim.
 email: usuario@usuario.com
 senha: 123123
 
-Contato
+*CONTATO*
 email: uendelmartins1501@gmail.com
 linkedIn: linkedin.com/in/uendel-martins
 WhatsApp: (85)986564358
