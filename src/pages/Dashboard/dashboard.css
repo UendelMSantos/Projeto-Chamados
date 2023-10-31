@@ -94,10 +94,13 @@ table td .badge{
     color: #FFF;
 }
 
-@media screen and(max-width: 600px){
+@media screen and (max-width: 700px){
+    .content{
+        margin: 0;
+    }
     table{
         border: 0;
-    };
+    }
 
     table caption{
         font-size: 1.3em;
