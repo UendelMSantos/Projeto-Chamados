@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+Nome do Projeto
+PROJETO CHAMADOS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tecnologias:
+JavaScript;
+React;
+FireBase;
+ContextAPI;
+Medias;
+Css3;
 
-## Available Scripts
+Descrição
+O projeto consiste em um sistema onde é possível realizar o Cadastro de Clientes e gerar Chamados, auxiliando a empresa sobre as Demandas do dia a dia.
 
-In the project directory, you can run:
+Uso
+Utilize o Projeto para ajudar nas demandas da sua empresa, ele consiste em abertura e monitoramento de chamados e cadastro de Clientes.
+Você pode criar uma nova conta, ou usar uma de teste criada por mim.
+email: usuario@usuario.com
+senha: 123123
 
-### `npm start`
+Contato
+email: uendelmartins1501@gmail.com
+linkedIn: linkedin.com/in/uendel-martins
+WhatsApp: (85)986564358
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Fotos do Projeto:
+![Captura de Tela (36)](https://github.com/UendelMSantos/Projeto-Chamados/assets/52014183/6305cdd0-003f-4971-ae03-d60ee1f82f0b)
+![Captura de Tela (37)](https://github.com/UendelMSantos/Projeto-Chamados/assets/52014183/d8da081c-5e3f-42f0-af21-5c4bc9d9d15b)
+![Captura de Tela (38)](https://github.com/UendelMSantos/Projeto-Chamados/assets/52014183/8b06b4fd-f2f0-4a9d-9c4d-958d896dcdc3)
+![Captura de Tela (39)](https://github.com/UendelMSantos/Projeto-Chamados/assets/52014183/9b23ffe0-dce8-4cef-8b19-ee1cbd88881b)
+![Captura de Tela (40)](https://github.com/UendelMSantos/Projeto-Chamados/assets/52014183/27835153-e0c4-49b5-a9fc-8f6b13231018)
+![Captura de Tela (41)](https://github.com/UendelMSantos/Projeto-Chamados/assets/52014183/b6317c89-c093-4c5c-a68d-411e572a6f60)
 
-### `npm test`
+Video do ContextAPI funcionando:
+https://github.com/UendelMSantos/Projeto-Chamados/assets/52014183/15c11ebd-c44f-43d7-a441-670076961c15
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
